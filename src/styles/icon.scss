@@ -1,0 +1,11 @@
+.icon-group {
+  width: fit-content;
+  height: fit-content;
+  // margin: 0 auto !important;
+  display: flex;
+  gap: 8px;
+  .icon {
+    width: 2rem;
+    height: 2rem;
+  }
+}

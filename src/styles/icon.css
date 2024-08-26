@@ -1,0 +1,12 @@
+.icon-group {
+  width: -moz-fit-content;
+  width: fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  display: flex;
+  gap: 8px;
+}
+.icon-group .icon {
+  width: 2rem;
+  height: 2rem;
+}/*# sourceMappingURL=icon.css.map */

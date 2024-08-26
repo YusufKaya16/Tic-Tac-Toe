@@ -1,0 +1,2 @@
+ResultBox' ta restart game, next round buttonlarına event ekle. Event durumunda ResultBox' display olarak none ayarla, puanları artır ve boxları temizle.
+handleClick event içerinde ResultBox' ı kontrol eden state'i true olarak ayarla ki resultbox tekrar gözüksün.
