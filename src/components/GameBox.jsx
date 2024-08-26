@@ -1,8 +1,8 @@
 import { useState } from "react";
 
 const srcOutlines = {
-  srcxOut: "\\src\\assets\\icon-x-outline.svg",
-  srcoOut: "\\src\\assets\\icon-o-outline.svg",
+  srcxOut: "/src/assets/icon-x-outline.svg",
+  srcoOut: "/src/assets/icon-o-outline.svg",
 };
 
 export default function GameBox({
