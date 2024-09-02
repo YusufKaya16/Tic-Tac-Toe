@@ -21,6 +21,6 @@ export function calculateWinner(boxes) {
 }
 
 export const srcs = {
-  srcX: "/src/assets/icon-x.svg",
-  srcO: "/src/assets/icon-o.svg",
+  srcX: "/public/icon-x.svg",
+  srcO: "/public/icon-o.svg",
 };
