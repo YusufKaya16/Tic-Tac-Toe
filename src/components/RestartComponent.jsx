@@ -5,7 +5,7 @@ export default function RestartComponent({ restartClick }) {
       <button  className="return-btn" onClick={restartClick}>
         <img
           className="return"
-          src="/public/icon-restart.svg"
+          src="/icon-restart.svg"
           alt="restart"
         />
       </button>

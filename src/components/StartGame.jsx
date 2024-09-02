@@ -27,10 +27,10 @@ export default function StartGame() {
               className={`select-bar ${player === "O" ? "slide" : ""}`}
             ></div>
             <div className="sec" onClick={selectChar} data-char="X">
-              <img className="icon" src="/public/icon-x.svg" alt="x" />
+              <img className="icon" src="/icon-x.svg" alt="x" />
             </div>
             <div className="sec" onClick={selectChar} data-char="O">
-              <img className="icon" src="/public/icon-o.svg" alt="o" />
+              <img className="icon" src="/icon-o.svg" alt="o" />
             </div>
           </div>
           <div className="footer">
